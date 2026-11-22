@@ -7,4 +7,4 @@ Stories:
 Sources:
 
 - https://ja.wikipedia.org/wiki/引きこもり
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC4912003/
+- [Hikikomori, A Japanese Culture-Bound Syndrome of Social Withdrawal? A Proposal for DSM-V](https://pmc.ncbi.nlm.nih.gov/articles/PMC4912003/)

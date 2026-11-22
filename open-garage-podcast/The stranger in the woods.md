@@ -1,3 +1,0 @@
----
-zotero: @finkelStrangerWoodsExtraordinary2017
----
