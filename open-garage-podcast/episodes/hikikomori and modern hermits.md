@@ -1,3 +1,7 @@
+---
+status: published
+url: https://youtu.be/PLzEvbJAlxI
+---
 Stories/talk points:
 
 - the [[North Pond Hermit|hermit]] who lived in the woods in rural America for 27 years

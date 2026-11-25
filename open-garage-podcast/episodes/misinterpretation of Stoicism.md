@@ -1,3 +1,6 @@
+---
+status: discussed a little bit
+---
 about how Stoicism's modern interpretation and how it deviated
 
 - "broicism"
