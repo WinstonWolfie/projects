@@ -1,4 +1,5 @@
 ---
+date: 2026-11-23
 status: discussed a little bit
 ---
 about how Stoicism's modern interpretation and how it deviated

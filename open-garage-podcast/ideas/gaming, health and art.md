@@ -1,3 +1,6 @@
+---
+date: 2026-11-23
+---
 Key points:
 
 - health-related research about video games

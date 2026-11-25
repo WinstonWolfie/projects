@@ -1,4 +1,5 @@
 ---
+date: 2026-11-22
 wp: https://en.wikipedia.org/wiki/Christopher_Thomas_Knight
 ---
 Christopher Thomas Knight (born 1965) survived 27 years during 1986 and 2013 in the North Pond area of Maine.

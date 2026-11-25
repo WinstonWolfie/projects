@@ -1,4 +1,5 @@
 ---
+date: 2026-11-22
 status: published
 url: https://youtu.be/PLzEvbJAlxI
 ---

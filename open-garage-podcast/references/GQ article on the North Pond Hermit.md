@@ -1,4 +1,5 @@
 ---
+date: 2026-11-25
 src: https://www.gq.com/story/the-last-true-hermit
 ---
 # Annotations  
