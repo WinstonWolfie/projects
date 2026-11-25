@@ -1,8 +1,9 @@
 ---
 date: 2026-11-23
 status: discussed a little bit
+desc: about how Stoicism's modern interpretation and how it deviated
 ---
-about how Stoicism's modern interpretation and how it deviated
+Rough outline:
 
 - "broicism"
   - ignores virtue
@@ -14,3 +15,7 @@ about how Stoicism's modern interpretation and how it deviated
   - the core is ignored
     - in Stoicism virtue is often less mentioned in modern authors
     - in meditations the original goal of enlightenment is watered down
+
+Additional ideas:
+
+- maybe Buddhism can also be included? A book called The Dark Side of Dharma is a great source.
