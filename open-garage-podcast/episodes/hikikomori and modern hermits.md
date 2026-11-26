@@ -1,6 +1,7 @@
 ---
 date: 2026-11-22
 status: published
+episode: 1
 url: https://youtu.be/PLzEvbJAlxI
 ---
 Stories/talk points:

@@ -20,6 +20,8 @@ Additional ideas:
 
 - maybe Buddhism can also be included? A book called The Dark Side of Dharma is a great source.
 
+Buddhism part could be extended in a potential new episode: [[dark side of meditation]].
+
 # Notes
 
 The "big three" Stoic philosophers has meanings for me personally:
