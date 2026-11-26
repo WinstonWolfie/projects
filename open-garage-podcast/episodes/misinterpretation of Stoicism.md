@@ -23,7 +23,8 @@ Additional ideas:
 # Notes
 
 The "big three" Stoic philosophers has meanings for me personally:
+
 - Seneca connects to me most, since he retreats from offices and studied philosophy.
   - maybe worth talking about: [[On Leisure]]
-- Marcus Aurelius gives me great inspiration for prompting myself to do good actions.
+- Marcus Aurelius gives me great inspiration for [[to-myself/readme|prompting myself]] to do good actions.
 - Epictetus is sharp so he's more like a Zen master striking you when you fall asleep during meditation (see: [Keisaku](https://en.wikipedia.org/wiki/Keisaku)). 
